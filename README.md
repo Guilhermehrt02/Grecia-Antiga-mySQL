@@ -29,10 +29,3 @@ Este projeto é uma implementação em Java de um sistema de gerenciamento de in
 - **MySQL Server**
 - **IDE Java** (IntelliJ IDEA, Eclipse, NetBeans, etc.)
 
-## Configuração e Execução
-
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/Guilhermehrt02/Grecia-Antiga-mySQL.git
-   cd Grecia-Antiga-mySQL
-   ```
